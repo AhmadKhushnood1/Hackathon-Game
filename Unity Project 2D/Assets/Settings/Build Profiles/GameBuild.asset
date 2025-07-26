@@ -24,6 +24,8 @@ MonoBehaviour:
     m_path: Assets/Scenes/Main menu.unity
   - m_enabled: 1
     m_path: Assets/Scenes/level1map.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/test scene.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
     m_Settings: []
