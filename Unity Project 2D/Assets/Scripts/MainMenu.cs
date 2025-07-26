@@ -5,7 +5,11 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        Debug.Log("Play button pressed");
         SceneManager.LoadSceneAsync(1);
+    }
+    
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }
