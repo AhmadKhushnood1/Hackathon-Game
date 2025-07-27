@@ -10767,6 +10767,4 @@ Tilemap:
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
-  m_Roots:
-  - {fileID: 1483610950}
-  - {fileID: 757068722}
+  m_Roots: []
